@@ -1,6 +1,7 @@
 # Pixisphere - Photographer Discovery Platform
 
-![Pixisphere Screenshot](./screenshot.png)
+![pixisphere](https://github.com/user-attachments/assets/a51f1b80-e2a7-4d2a-93e4-a91078fbf550)
+
 
 ## Features
 
@@ -37,6 +38,4 @@
 
 ## Contact
 
-**Email:** ([pushkarsharma652@gmail.com](mailto:pushkarsharma652@gmail.com))
-**LinkedIn:** ([push4ck](https://www.linkedin.com/in/push4ck/))
-**GitHub:** ([Push4ck](https://github.com/Push4ck))
+**Email:** [pushkarsharma652@gmail.com](mailto:pushkarsharma652@gmail.com) | **LinkedIn:** [push4ck](https://www.linkedin.com/in/push4ck/) | **GitHub:** [Push4ck](https://github.com/Push4ck)
