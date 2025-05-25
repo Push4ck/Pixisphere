@@ -2,7 +2,6 @@
 
 ![pixisphere](https://github.com/user-attachments/assets/a51f1b80-e2a7-4d2a-93e4-a91078fbf550)
 
-
 ## Features
 
 - **Category Listing Page**
