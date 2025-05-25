@@ -1,36 +1,42 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Pixisphere - Photographer Discovery Platform
 
-## Getting Started
+![Pixisphere Screenshot](./screenshot.png)
 
-First, run the development server:
+## Features
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **Category Listing Page**
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+  - Grid view of photographer cards with profile pics, pricing, ratings, and tags
+  - Advanced filtering sidebar with price range, ratings, styles, and city options
+  - Real-time search by name, location, or tags with fuzzy search
+  - Dynamic sorting (Price: Low to High, Rating: High to Low, Recently Added)
+  - Infinite scroll or pagination for seamless browsing
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+- **Photographer Profile Page**
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+  - Detailed photographer bio and professional information
+  - Full portfolio gallery with carousel/grid view
+  - Customer reviews with ratings and comments
+  - "Send Inquiry" modal form for direct contact
+  - Comprehensive style and tag display
 
-## Learn More
+- **Enhanced User Experience**
+  - Debounced search and filtering for optimal performance
+  - Responsive mobile-first design
+  - Skeleton loaders during data fetching
+  - Smart suggestion strip for personalized recommendations
 
-To learn more about Next.js, take a look at the following resources:
+## Tech Stack
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- **Frontend Framework:** React with Next.js
+- **State Management:** Context API / Redux / Zustand
+- **Styling:** Tailwind CSS
+- **API:** JSON Server (Mock REST API)
+- **Performance:** Debouncing, memoization, optimized rendering
+- **Deployment:** Netlify
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+## Contact
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+**Email:** ([pushkarsharma652@gmail.com](mailto:pushkarsharma652@gmail.com))
+**LinkedIn:** ([push4ck](https://www.linkedin.com/in/push4ck/))
+**GitHub:** ([Push4ck](https://github.com/Push4ck))
